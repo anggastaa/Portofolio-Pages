@@ -20,10 +20,10 @@ To develop a robust pizzeria management system that empowers the owner with a co
 * Looker Studio
 
 ## Relational Database Overview
-![](Images/Picture%201.png) 
+![](images/Database.png) 
 
 ## Custom Queries Overview
-![](Images/Picture%201.png) 
+![](images/query.png) 
 
 ## Result
 The following dashboard for this project can be found on [Dashboard Pizzeria Project](https://lookerstudio.google.com/reporting/bcb6af2a-2b4d-4bc0-b9b8-ab124ba7fb56)
